@@ -35,4 +35,4 @@ The Shawshank Redemption is the highest-rated movie (9.3)
 
 High-budget movies like Titanic achieved massive box office success
 
-Average movie rating is 6.32, showing most movies fall between 6–7This project explores a dataset of 4,013 movies using MySQL Workbench to answer analytical questions about ratings, genres, budgets, and box office collections. It demonstrates SQL skills ranging from basic queries to advanced aggregations.
+Average movie rating is 6.32, showing most movies fall between 6–7
